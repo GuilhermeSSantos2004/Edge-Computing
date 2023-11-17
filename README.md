@@ -5,7 +5,5 @@
 ### 1. Lembrança de Horário:
   ###### Personalização dos Lembretes:
 
-    Permita que os usuários ajustem os horários de lembrete de acordo com sua programação diária.
-    Modos de Lembrete Ajustáveis:
-
-    Ofereça a opção de lembretes visuais, sonoros ou ambos, para acomodar diferentes preferências.
+- Os usuários podem ajustar os horários de lembrete de acordo com sua programação diária.
+- Oferece a opção de lembrete visuais e sonoros.
