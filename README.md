@@ -16,4 +16,23 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 - Os usuários podem ajustar os horários de lembrete de acordo com sua programação diária.
 - Oferece a opção de lembrete sonoro.
-- 
+
+
+### 2. Conectividade Bluetooth/Wi-Fi:
+  ###### Interface Intuitiva:
+
+## Aplicativo Móvel:
+
+- **Interface Amigável:**
+  - O aplicativo móvel possui uma interface fácil de usar, proporcionando uma experiência amigável para os usuários.
+
+- **Sincronização Automática:**
+  - Garante sincronização automática entre o dispositivo e o aplicativo, eliminando a necessidade de intervenção constante do usuário.
+
+## 3. Botão de SOS e Histórico de Uso:
+
+- **Histórico Detalhado:**
+  - No registro de uso, incluem-se informações detalhadas, como datas e horários precisos de cada dose, para um acompanhamento mais eficaz.
+
+- **Alerta aos Familiares:**
+  - O paciente pode acionar alertas para seus familiares tanto através do dispositivo quanto pelo aplicativo.
