@@ -36,3 +36,20 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 - **Alerta aos Familiares:**
   - O paciente pode acionar alertas para seus familiares tanto através do dispositivo quanto pelo aplicativo.
+
+ ## Como Utilizar:
+
+1. **Clone o Repositório:**
+   - Clone este repositório em sua máquina local.
+
+2. **Configuração do Hardware:**
+   - Conecte os sensores necessários e o buzzer ao ESP32 conforme especificado no esquema elétrico.
+
+3. **Instalação do Software:**
+   - Carregue o código para o ESP32 usando a IDE do Arduino.
+
+4. **Configuração do Aplicativo Móvel:**
+   - Baixe o aplicativo móvel correspondente e siga as instruções para emparelhar o dispositivo.
+
+5. **Personalização:**
+   - Personalize as configurações conforme suas preferências usando o aplicativo móvel.
