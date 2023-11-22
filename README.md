@@ -29,7 +29,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
   ###### Interface Intuitiva:
 
 - **Interface Amigável:**
-  - O aplicativo móvel possui uma interface fácil de usar, proporcionando uma experiência amigável para os usuários.
+  - O dispositivo móvel possui uma interface fácil de usar, proporcionando uma experiência amigável para os usuários.
 
 - **Sincronização Automática:**
   - Garante sincronização automática entre o dispositivo e o aplicativo, eliminando a necessidade de intervenção constante do usuário. 
