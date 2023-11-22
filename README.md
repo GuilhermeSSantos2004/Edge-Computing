@@ -10,10 +10,11 @@ O aplicativo associado a essa tecnologia pode ser acessado de qualquer dispositi
 
 Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o processo de coleta de medicamentos, proporcionando uma maneira mais segura de obter atestados médicos e receitas. Isso não apenas garante a segurança na administração dos medicamentos, mas também reforça a certeza de que o paciente está seguindo corretamente as orientações prescritas.
 
+<div align="center">
 
 ![image](https://github.com/GuilhermeSSantos2004/Edge-Computing/assets/107642647/f9db7846-2fcd-4725-a6c8-56abb277d7d7)
 
-
+</div>
 ## Funcionalidades Técnicas Principais:
 ### 1. Lembrança de Horário:
   ###### Personalização dos Lembretes:
