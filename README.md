@@ -10,6 +10,10 @@ O aplicativo associado a essa tecnologia pode ser acessado de qualquer dispositi
 
 Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o processo de coleta de medicamentos, proporcionando uma maneira mais segura de obter atestados médicos e receitas. Isso não apenas garante a segurança na administração dos medicamentos, mas também reforça a certeza de que o paciente está seguindo corretamente as orientações prescritas.
 
+
+![image](https://github.com/GuilhermeSSantos2004/Edge-Computing/assets/107642647/f9db7846-2fcd-4725-a6c8-56abb277d7d7)
+
+
 ## Funcionalidades Técnicas Principais:
 ### 1. Lembrança de Horário:
   ###### Personalização dos Lembretes:
@@ -47,8 +51,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 3. **Instalação do Software:**
    - Carregue o código para o ESP32 usando a IDE do Arduino.
----------------------------------------------------------------------------------------------
 
-
-5. **Personalização:**
+4. **Personalização:**
    - Personalize as configurações conforme suas preferências.
+   - Ajuste o horário de cada remédio de acordo com a sua disponibilidade. 
