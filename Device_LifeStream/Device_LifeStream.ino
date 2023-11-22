@@ -23,6 +23,11 @@ unsigned long debounceDelay = 30; // Atraso de debounce em milissegundos
 void setup() {
   Serial.begin(9600);
   Serial.println("Conectando WiFi");
+
+
+  pinMode(buzzerPin, OUTPUT); // Set buzzer pin as output
+  digitalWrite(buzzerPin, LOW); // Ensure the buzzer is initially off
+
   while (!client.isWifiConnected()) {
     Serial.print('.');
     client.loop();
@@ -77,11 +82,11 @@ void loop() {
 
       // Se o novo estado do botão for HIGH, significa que o botão foi pressionado
       if (buttonState == HIGH) {
+
+        buzzer();
         Serial.println("Botão pressionado!");
 
-          lastButtonState = reading;
-
-        temperatura = random(0, 100);
+        lastButtonState = reading;
 
         StaticJsonDocument<300> documentoJson;
         documentoJson["variable"] = "Button";
@@ -91,7 +96,7 @@ void loop() {
         Serial.println(bufferJson);
         client.publish("topicoEngSoft", bufferJson);
         
-        buzzer();
+        
         
         
         // Adicione o código que deseja executar quando o botão é pressionado
