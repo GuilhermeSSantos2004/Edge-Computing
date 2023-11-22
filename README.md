@@ -28,8 +28,6 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 ### 2. Conectividade Bluetooth/Wi-Fi:
   ###### Interface Intuitiva:
 
-## Aplicativo Móvel:
-
 - **Interface Amigável:**
   - O aplicativo móvel possui uma interface fácil de usar, proporcionando uma experiência amigável para os usuários.
 
