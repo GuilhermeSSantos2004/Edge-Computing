@@ -32,7 +32,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
   - O aplicativo móvel possui uma interface fácil de usar, proporcionando uma experiência amigável para os usuários.
 
 - **Sincronização Automática:**
-  - Garante sincronização automática entre o dispositivo e o aplicativo, eliminando a necessidade de intervenção constante do usuário.
+  - Garante sincronização automática entre o dispositivo e o aplicativo, eliminando a necessidade de intervenção constante do usuário. 
 
 ## 3. Botão de SOS e Histórico de Uso:
 
@@ -52,7 +52,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 3. **Instalação do Software:**
    - Carregue o código para o ESP32 usando a IDE do Arduino.
-
-4. **Personalização:**
-   - Personalize as configurações conforme suas preferências.
-   - Ajuste o horário de cada remédio de acordo com a sua disponibilidade. 
+  
+3. **acessa o tago.io**
+   - criar...
+  
