@@ -16,6 +16,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 </div>
 ## Funcionalidades Técnicas Principais:
+
 ### 1. Lembrança de Horário:
   
   ###### Personalização dos Lembretes:
