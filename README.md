@@ -54,7 +54,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
    - Acesse o link : https://wokwi.com/projects/382052543104418817 para executar o projeto.
      
 4. **acessa o tago.io**
-   - Faz o login na plataforma: https://tago.io/
+   - Acessar a plataforma: https://tago.io/
    - Cria um disipositivo MQTT
    - Após criar as duas actions. A primeira é reposavél por insteir dados no bucket, então ela coleta os dados que vem do dispositivo e a outra com o nome LiveStream, ela envia os dados para o topico MQTT que o dispositivo assina, e assim ele recebe o dado que o tago envia.
      
