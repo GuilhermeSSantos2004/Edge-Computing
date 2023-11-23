@@ -54,7 +54,7 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 3. **Intruções para configurar a plataforma Tago**
    - Acessar a plataforma: https://tago.io/
    - Cria um disipositivo MQTT
-   - Após criar as duas actions. Você precisa que a primeira fique reposavél por inserir dados no bucket, então ela coleta os dados que vem do dispositivo e a outra com o nome LiveStream, ela deve enviar os dados para o topico MQTT que o dispositivo assina, e assim ele recebe o dado que o Tago envia.
+   - Após criar as duas actions. Você precisa que a primeira fique resposavél por inserir dados no bucket, então ela coleta os dados que vem do dispositivo e a outra com o nome LiveStream, ela deve enviar os dados para o topico MQTT que o dispositivo assina, e assim ele recebe o dado que o Tago envia.
      
 ## Para executar o projeto: 
    - Acessar a plataforma: [https://wokwi.com/](https://wokwi.com/projects/382052543104418817)
