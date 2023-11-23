@@ -46,15 +46,20 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
 
 1. **Clone o Repositório:**
    - Clone este repositório em sua máquina local.
-
+     
 2. **Configuração do Hardware:**
-   - Conecte os sensores necessários e o buzzer ao ESP32 conforme especificado no esquema elétrico.
+   - Conecte os sensores, botão e o buzzer ao ESP32.
+     
+3. **Configuração do Hardware:**
+   - Acesse o link : https://wokwi.com/projects/382052543104418817 para executar o projeto.
+     
+4. **acessa o tago.io**
+   - Faz o login na plataforma: https://tago.io/
+   - Cria um disipositivo MQTT
+   - Após criar as duas actions. A primeira é reposavél por insteir dados no bucket, então ela coleta os dados que vem do dispositivo e a outra com o nome LiveStream, ela envia os dados para o topico MQTT que o dispositivo assina, e assim ele recebe o dado que o tago envia.
+     
+## Para executar o projeto: 
+   - Acessar a plataforma: [https://wokwi.com/](https://wokwi.com/projects/382052543104418817)
 
-3. **Instalação do Software:**
-   - Carregue o código para o ESP32 usando a IDE do Arduino.
-  
-3. **acessa o tago.io**
-   - criar...
-
-
-LINK : https://wokwi.com/projects/382052543104418817
+## Video Explicativo
+   - Link do vídeo:
