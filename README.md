@@ -60,4 +60,4 @@ Comprometida não apenas com os hospitais, nossa empresa visa aprimorar o proces
    - Acessar a plataforma: [https://wokwi.com/](https://wokwi.com/projects/382052543104418817)
 
 ## Video Explicativo
-   - Link do vídeo:
+   - Link do vídeo: https://drive.google.com/file/d/1a0Jrk7N-s1hXl_1rEDOwX6xssqXF-fZ-/view?usp=sharing
